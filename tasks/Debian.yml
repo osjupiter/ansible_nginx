@@ -13,3 +13,4 @@
       # - libgd2-xpm      # GD Library
       - libgd2-xpm-dev  # GD Library
       - checkinstall
+      - gcc
